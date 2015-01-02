@@ -3,6 +3,9 @@ BMN
 
 Find and share logins
 
+Developed By
+============
+
 License
 =======
 
