@@ -6,6 +6,8 @@ Find and share logins
 Developed By
 ============
 
+`Abhijeet Mohan`
+
 License
 =======
 
