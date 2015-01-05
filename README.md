@@ -6,7 +6,7 @@ Find and share logins
 Developed By
 ============
 
-`Abhijeet Mohan`
+`Abhijeet Mohan` - `void.aby@gmail.com`
 
 License
 =======
