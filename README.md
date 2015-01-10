@@ -6,6 +6,10 @@ Find and share logins
 Usage
 =====
 
+`
+  bmn [website]
+`
+
 Developed By
 ============
 
