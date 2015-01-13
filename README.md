@@ -3,12 +3,10 @@ BMN
 
 Find and share logins
 
-Usage
-=====
+### Usage
 
-`
-  bmn [website]
-`
+    $ bmn [website]
+
 
 Developed By
 ============
