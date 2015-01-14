@@ -3,7 +3,7 @@ BMN
 
 Find and share logins
 
-<img src="images.all-free-download.com/images/graphiclarge/lady_bug_54398.jpg" alt="Geodude Icon" align="right" />
+<img src="http://images.all-free-download.com/images/graphiclarge/lady_bug_54398.jpg" alt="Geodude Icon" align="right" />
 Geodude is a tiny command-line utility for geocoding addresses.
 
 
