@@ -7,7 +7,8 @@ Find and share logins
 Geodude is a tiny command-line utility for geocoding addresses.
 
 
-### Usage
+Usage
+=====
 
     $ bmn [website]
 
