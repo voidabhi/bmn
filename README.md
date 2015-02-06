@@ -1,7 +1,7 @@
 BMN
 ===
 
-Find and share logins
+A command line tool for finding and sharing logins.
 
 <img src="http://images.all-free-download.com/images/graphiclarge/lady_bug_54398.jpg" alt="Geodude Icon" align="right" />
 
