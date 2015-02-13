@@ -12,6 +12,7 @@ import(
 	"flag"
 )
 
+// Account Model
 type AccountEntry struct {
 	Username string
 	Password string
