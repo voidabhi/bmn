@@ -8,7 +8,7 @@ A command line tool for finding and sharing logins.
 
 #### Usage
 
-    $ bmn [website]
+    $ bmn [domain name]
 
 
 #### Developed By
