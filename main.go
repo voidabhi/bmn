@@ -119,6 +119,7 @@ func bmn(website string)(*AccountBook,error) {
 	return &accountBook,nil
 }
 
+// Output template
 func tmpl(w io.Writer, text string, data interface{}) {
 	t := template.New("top")
 	template.Must(t.Parse(text))
