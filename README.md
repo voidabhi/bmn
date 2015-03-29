@@ -12,7 +12,8 @@ Usage
     $ bmn [domain name]
 
 
-#### Developed By
+Developed By
+============
 
 `Abhijeet Mohan` - `void.aby@gmail.com`
 
