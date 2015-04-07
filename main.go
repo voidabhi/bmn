@@ -21,6 +21,7 @@ type AccountEntry struct {
 	Posted string
 }
 
+// Account Collection
 type AccountBook struct {
 	Accounts []*AccountEntry
 }
