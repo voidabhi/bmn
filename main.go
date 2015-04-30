@@ -102,7 +102,7 @@ func printErr(err error) {
 
 // Helpers
 
-
+// Fetching data from bmn webservice
 func bmn(website string)(*AccountBook,error) {
 
 	res, err := http.Get("http://bugmenotapi.herokuapp.com/"+website)
