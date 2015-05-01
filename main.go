@@ -84,12 +84,14 @@ func printAccount(w io.Writer,a *AccountEntry){
 	tmpl(w,accountTmpl,a)
 }
 
+// Helpers
+
 // Messages
 
 const messageTmpl = `
 	{{.Message}}
 `
-
+// printing message on command line
 func printMessage(w io.Writer,msg string) {
 	tmpl(w,messageTmpl,struct {Message string}{msg})
 }
@@ -98,9 +100,6 @@ func printErr(err error) {
 	fmt.Fprintln(os.Stderr, err.Error())
 	os.Exit(2)
 }
-
-
-// Helpers
 
 // Fetching data from bmn webservice
 func bmn(website string)(*AccountBook,error) {
