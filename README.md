@@ -9,7 +9,7 @@ A command line tool for finding and sharing logins.
 Usage
 =====
 
-    $ bmn [domain name]
+    $ bmn [domain name without www]
 
 
 Developed By
