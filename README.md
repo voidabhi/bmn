@@ -1,17 +1,37 @@
-BMN
-===
+# BMN
 
 A command line tool for finding and sharing logins.
 
 <img src="http://images.all-free-download.com/images/graphiclarge/lady_bug_54398.jpg" alt="BMN Icon" align="right" />
 
 
-# Usage
+### Installation
 
-    $ bmn [domain name without www]
+    $ go get github.com/voidabhi/bmn
+
+### Usage
+
+    $ bmn [website]
+    
+
+### Examples
+
+    $ bmn flipkart.com
+
+```
+	23 accounts for flipkart.com
+
+	Username: bugmenot11@sharklasers.com
+	Password: bugmenot11
+	SuccessRate: 90% success rate
+	Upvotes: 30 votes
+	Posted: 4 months old
+	
+	...
+```
 
 
-# Developed By
+### Developed By
 
 `Abhijeet Mohan` - `void.aby@gmail.com`
 
@@ -20,8 +40,7 @@ A command line tool for finding and sharing logins.
        src="http://data.pkmmte.com/temp/social_google_plus_logo.png" />
 </a>
 
-License
-=======
+# License
 
 ```
 The MIT License (MIT)
