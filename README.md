@@ -4,6 +4,7 @@ A command line tool for finding logins.
 
 <img src="http://images.all-free-download.com/images/graphiclarge/lady_bug_54398.jpg" alt="BMN Icon" align="right" />
 
+[![Build Status](https://drone.io/github.com/voidabhi/bmn/status.png)](https://drone.io/github.com/voidabhi/bmn/latest)
 
 ### Installation
 
