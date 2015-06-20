@@ -101,10 +101,12 @@ func printErr(err error) {
 	os.Exit(2)
 }
 
+const BASE_URL = "http://bugmenotapi.herokuapp.com/"
+
 // Fetching data from bmn webservice
 func bmn(website string)(*AccountBook,error) {
 
-	res, err := http.Get("http://bugmenotapi.herokuapp.com/"+website)
+	res, err := http.Get(BASE_URL+website)
 	if err != nil {
 		return nil,err
 	}
