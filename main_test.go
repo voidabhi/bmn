@@ -22,7 +22,7 @@ func TestBmn(t *testing.T) {
 	}
 }
 
-
+//Benchmark Test
 func BenchmarkGeocode(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		bmn("flipkart.com")
