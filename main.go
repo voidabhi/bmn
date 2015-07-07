@@ -84,7 +84,7 @@ func printAccount(w io.Writer,a *AccountEntry){
 	tmpl(w,accountTmpl,a)
 }
 
-// Helpers
+// Helper Functions
 
 // Messages
 
