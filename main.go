@@ -29,6 +29,7 @@ type AccountBook struct {
 
 func main(){
 
+	// adding usage
 	flag.Usage = usage
 	flag.Parse()
 	
