@@ -9,7 +9,6 @@ import (
 func TestBmn(t *testing.T) {
 
 	query := "flipkart.com"
-	invalidQuery := "completelyrandomwebsite.com"
 	expectedCount := 23
 
 	result,err := bmn(query)
