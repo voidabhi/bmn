@@ -9,6 +9,12 @@ A command line tool for finding logins.
 ### Installation
 
     $ go get github.com/voidabhi/bmn
+    
+### Building
+
+    $ git clone https://github.com/voidabhi/bmn
+    $ cd bmn
+    $ go build main.go
 
 ### Usage
 
