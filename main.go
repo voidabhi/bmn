@@ -97,6 +97,7 @@ func printMessage(w io.Writer,msg string) {
 	tmpl(w,messageTmpl,struct {Message string}{msg})
 }
 
+// logging error
 func printErr(err error) {
 	fmt.Fprintln(os.Stderr, err.Error())
 	os.Exit(2)
