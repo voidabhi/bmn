@@ -39,6 +39,7 @@ func main(){
 		usage()
 	}
 	
+	// fetching first argument
 	query := args[0]
 	
 	accountBook,_ := bmn(query)
