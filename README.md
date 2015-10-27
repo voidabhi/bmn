@@ -18,6 +18,8 @@ A command line tool for finding logins.
 
 ### Usage
 
+    # export PATH=~/bmn:$PATH
+    # source ~/.bashrc
     $ bmn [website]
     
 
