@@ -27,7 +27,7 @@ A command line tool for finding logins.
 
     $ bmn flipkart.com
 
-```
+```$
 	23 accounts for flipkart.com
 
 	Username: bugmenot11@sharklasers.com
