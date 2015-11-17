@@ -49,7 +49,7 @@ A command line tool for finding logins.
        src="http://data.pkmmte.com/temp/social_google_plus_logo.png" />
 </a>
 
-# License
+### License
 
 ```
 The MIT License (MIT)
