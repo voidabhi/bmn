@@ -15,10 +15,9 @@ func TestBmn(t *testing.T) {
 		t.Error(err)
 	}
 
-	// if len(result.Accounts) <0 {
-	// 	t.Errorf("Accounts count doesn't match. Expected %s, got %s", expectedCount,
-	// 		len(result.Accounts))
-	// }
+	if len(result.Accounts) <0 {
+		t.Errorf("Error: Unexpected Count!")
+	}
 }
 
 //Benchmark Test
