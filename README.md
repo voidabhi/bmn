@@ -1,4 +1,4 @@
-# BMN
+## BMN
 
 A command line tool for finding logins.
 
