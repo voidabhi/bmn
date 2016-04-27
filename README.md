@@ -39,6 +39,10 @@ A command line tool for finding logins.
 	...
 ```
 
+### Contributing
+
+- Please use the [issue tracker](https://github.com/voidabhi/bmn/issues) to report any bugs or file feature requests.
+
 
 ### Developed By
 
