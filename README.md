@@ -10,6 +10,9 @@ A command line tool for finding logins.
 
     $ go get github.com/voidabhi/bmn
     
+### Linting
+    $ golint
+    
 ### Building
 
     $ git clone https://github.com/voidabhi/bmn
