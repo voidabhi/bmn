@@ -6,6 +6,11 @@ A command line tool for finding logins.
 
 [![Build Status](https://drone.io/github.com/voidabhi/bmn/status.png)](https://drone.io/github.com/voidabhi/bmn/latest)
 
+### Building
+
+    $ go get -u github.com/kardianos/govendor
+    $ govendor sync
+
 ### Installation
 
     $ go get github.com/voidabhi/bmn
