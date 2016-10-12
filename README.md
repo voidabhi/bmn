@@ -9,7 +9,7 @@ A command line tool for finding logins.
 ### Building
 
     $ go get -u github.com/kardianos/govendor
-    $ govendor sync
+    $ glide install
 
 ### Installation
 
