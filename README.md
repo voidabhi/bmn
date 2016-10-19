@@ -23,6 +23,10 @@ A command line tool for finding logins.
     $ git clone https://github.com/voidabhi/bmn
     $ cd bmn
     $ go build main.go
+    
+### Running
+   
+    $ sh start.sh
 
 ### Usage
 
