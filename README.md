@@ -15,8 +15,10 @@ A command line tool for finding logins.
 
     $ go get github.com/voidabhi/bmn
     
-### Linting
+### Code Style Check
     $ golint
+    $ go vet ./...
+    $ go fmt ./...
     
 ### Building
 
