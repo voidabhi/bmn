@@ -8,38 +8,52 @@ A command line tool for finding logins.
 
 ### Building
 
-    $ go get -u github.com/kardianos/govendor
-    $ glide install
+```bash
+$ go get -u github.com/kardianos/govendor
+$ glide install
+```
 
 ### Installation
 
-    $ go get github.com/voidabhi/bmn
+```bash
+$ go get github.com/voidabhi/bmn
+```
     
 ### Code Style Check
-    $ golint
-    $ go vet ./...
-    $ go fmt ./...
+
+```bash
+$ golint
+$ go vet ./...
+$ go fmt ./...
+```
     
 ### Building
 
-    $ git clone https://github.com/voidabhi/bmn
-    $ cd bmn
-    $ go build main.go
+```bash
+$ git clone https://github.com/voidabhi/bmn
+$ cd bmn
+$ go build main.go
+```
     
 ### Running
-   
-    $ sh start.sh
+
+```bash   
+$ sh start.sh
+```
 
 ### Usage
 
-    # export PATH=~/bmn:$PATH
-    # source ~/.bashrc
-    $ bmn [website]
-    
+```bash
+# export PATH=~/bmn:$PATH
+# source ~/.bashrc
+$ bmn [website]
+```    
 
 ### Examples
 
-    $ bmn flipkart.com
+```bash
+$ bmn flipkart.com
+```
 
 ```$
 	23 accounts for flipkart.com
