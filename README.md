@@ -38,7 +38,7 @@ $ go build main.go
 ### Running
 
 ```bash   
-$ sh start.sh
+$ sh ./start.sh
 ```
 
 ### Usage
